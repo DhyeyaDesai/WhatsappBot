@@ -6,7 +6,7 @@ from time import sleep
 twilio_sid = "AC39f1e47ce52ba8a7dd3d8338a6f0cf04"
 auth_token = "5739009e86c871617ba74a581d3c345e"
 EXECUTABLE_PATH = "C:\\Python38\\geckodriver.exe"
-
+#Testing
 # options = Options()
 # options.headless = True
 # options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
